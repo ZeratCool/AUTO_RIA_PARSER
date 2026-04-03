@@ -107,7 +107,7 @@ docker-compose up --build
 
 ## 🧑‍💻 Автор
 
-[Твой Ник / GitHub](https://github.com/yourname)
+[ZeratCool](https://github.com/ZeratCool)
 
 ---
 
